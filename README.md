@@ -30,4 +30,4 @@ Si l'on utilise l'architecture ITCSS, il est intéressant de pousser un peu plus
 ## Auteur
 - Augustin Ribreau - <i>Developpeur</i> - <a href="https://augustin.ribreau.co/" target="_blank">augustin.ribreau.co</a>
 
-Voir aussi la liste des <a href="https://github.com/AugustinRibreau/" target="_blank">sources</a> ayant été utilisé.
+Voir aussi la liste des <a href="https://github.com/AugustinRibreau/Convention-BEM/blob/master/source.txt" target="_blank">sources</a> ayant été utilisé.
